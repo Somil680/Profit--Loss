@@ -1,0 +1,51 @@
+body{
+    font-family:sans-serif ;
+}
+
+
+input{
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+}
+button{
+    padding: 0.5rem;
+    margin: 1rem;
+}
+#outputBox{
+    height: 280px;
+    width: 50%;
+    text-align: center;
+    font-size: xx-large;
+   padding-top: 300px;
+   background-color:rgb(39, 34, 36); ;
+}
+.main-div{
+    display: flex;
+    justify-content:space-between;
+
+
+}
+.div{
+    width: 50%;
+    text-align: center;
+    padding-top: 60px;
+    background-color: rgb(33, 33, 33);
+}
+p{
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+
+}
+input{
+    width: 250px;
+}
+button{
+    width: 280px;
+    color: white;
+    background-color: rgb(52, 29, 255);
+    padding: 10px;
+    font-size: large;
+    text-decoration: none;
+    border: none;
+}
